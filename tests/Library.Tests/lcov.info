@@ -1,36 +1,56 @@
-SF:/Users/fmachado/Repos/PII_Person/v5/src/Library/Person.cs
-FN:30,System.String Ucu.Poo.Persons.Person::get_Name()
-FNDA:10,System.String Ucu.Poo.Persons.Person::get_Name()
-DA:31,10
-FN:36,System.String Ucu.Poo.Persons.Person::get_FamilyName()
-FNDA:8,System.String Ucu.Poo.Persons.Person::get_FamilyName()
-DA:37,8
-FN:44,System.String Ucu.Poo.Persons.Person::get_FullName()
+SF:C:\Users\nicol\proyectosUCU\DEBUGANDTESTT\src\Library\Person.cs
+FN:29,System.String Ucu.Poo.Persons.Person::get_Name()
+FNDA:11,System.String Ucu.Poo.Persons.Person::get_Name()
+DA:30,11
+FN:35,System.String Ucu.Poo.Persons.Person::get_FamilyName()
+FNDA:9,System.String Ucu.Poo.Persons.Person::get_FamilyName()
+DA:36,9
+FN:43,System.String Ucu.Poo.Persons.Person::get_FullName()
 FNDA:1,System.String Ucu.Poo.Persons.Person::get_FullName()
+DA:44,1
 DA:45,1
 DA:46,1
-DA:47,1
-FN:54,System.Void Ucu.Poo.Persons.Person::IntroduceTo(Ucu.Poo.Persons.Person)
-FNDA:1,System.Void Ucu.Poo.Persons.Person::IntroduceTo(Ucu.Poo.Persons.Person)
-DA:55,1
-DA:56,1
-DA:57,1
-DA:58,1
-DA:59,1
+FN:51,System.DateTime Ucu.Poo.Persons.Person::get_BirthDate()
+FNDA:5,System.DateTime Ucu.Poo.Persons.Person::get_BirthDate()
+DA:52,5
+FN:59,System.Int32 Ucu.Poo.Persons.Person::get_Age()
+FNDA:1,System.Int32 Ucu.Poo.Persons.Person::get_Age()
 DA:60,1
-BRDA:56,7,0,1
-BRDA:56,7,1,1
-FN:20,System.Void Ucu.Poo.Persons.Person::.ctor(System.String,System.String)
-FNDA:4,System.Void Ucu.Poo.Persons.Person::.ctor(System.String,System.String)
-DA:21,4
-DA:22,4
-DA:23,4
-DA:24,4
-DA:25,4
-LF:16
-LH:16
-BRF:2
-BRH:2
-FNF:5
-FNH:5
+DA:61,1
+DA:62,1
+DA:64,1
+DA:65,0
+DA:66,0
+DA:67,0
+DA:69,1
+DA:70,1
+BRDA:64,51,0,1
+BRDA:64,74,0,1
+BRDA:64,74,1,0
+BRDA:64,51,1,0
+BRDA:64,107,0,0
+BRDA:64,107,1,1
+FN:77,System.Void Ucu.Poo.Persons.Person::IntroduceTo(Ucu.Poo.Persons.Person)
+FNDA:1,System.Void Ucu.Poo.Persons.Person::IntroduceTo(Ucu.Poo.Persons.Person)
+DA:78,1
+DA:79,1
+DA:80,1
+DA:81,1
+DA:82,1
+DA:83,1
+BRDA:79,7,0,1
+BRDA:79,7,1,1
+FN:19,System.Void Ucu.Poo.Persons.Person::.ctor(System.String,System.String)
+FNDA:5,System.Void Ucu.Poo.Persons.Person::.ctor(System.String,System.String)
+DA:20,5
+DA:21,5
+DA:22,5
+DA:23,5
+DA:24,5
+LF:26
+LH:23
+BRF:8
+BRH:5
+FNF:7
+FNH:7
 end_of_record
